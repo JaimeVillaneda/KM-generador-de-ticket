@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Builds y distribuciones
+build/
+dist/
+
+# Binarios
+*.exe
+*.dll
+*.zip
+*.pdf
+*.log

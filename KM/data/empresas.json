@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Supermercado El Ahorro",
+    "direccion": "Av. Principal #123",
+    "telefono": "6012345678",
+    "nit": "901234567-8",
+    "departamento": "Antioquia",
+    "municipio": "Medellín",
+    "iva": "19"
+  },
+  {
+    "nombre": "Tecnología Avanzada SAS",
+    "direccion": "Calle 45 #12-34",
+    "telefono": "6076543210",
+    "nit": "890123456-7",
+    "departamento": "Cundinamarca",
+    "municipio": "Bogotá",
+    "iva": "19"
+  }
+]
